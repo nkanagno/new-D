@@ -1,6 +1,6 @@
 ---
 title: Ο τίτλος του περιοχομενού σας
-caption: 'Το περιεχομενό σαςsfdfsdfsdfsddsaifhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhk jsdfhkajdkjfas skadjkjsdak'
-student: Νικολας αναγνωστοπουλος
-studentid: inf2021013
+caption: 'Το περιεχομενό σας'
+name: το ονοματεπώνυμό σας 
+AM: Ο αριθμος μητρωου σας 
 ---
