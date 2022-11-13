@@ -1,5 +1,6 @@
 ---
 title: Ο τίτλος του περιοχομενού σας
 caption: 'Το περιεχομενό σαςsfdfsdfsdfsddsaifhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhk jsdfhkajdkjfas skadjkjsdak'
-person: το ονοματεπώνυμό σας και το AM σας
+person: Νικολας αναγνωστοπουλος
+AM: inf2021013
 ---
