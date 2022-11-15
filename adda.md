@@ -1,7 +1,7 @@
 ---
 caption: 'Το περιεχομενό σας'
-name: το ονοματεπώνυμό σας 
-id: Ο αριθμος μητρωου σας
+name: Νικολας Αναγνωστοπουλος 
+id: inf2021013
 link: https://www.netlify.com/
 linkname: netlify
 ---
