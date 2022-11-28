@@ -27,7 +27,7 @@
 
 Τέλος, αναπτύσσοντας τα παιχνίδια του μέσω της Unreal Engine, η οποία εώς και σήμερα έχει 5 διαφορετικές και επιτυχημένες εκδοχές, και πουλόντας τα μέσω της Epic Games έχει καταφέρει να φτάσει στο σημείο που είναι σήμερα, έχοντας κάποια από τα πιο επιτυχημένα βιντεοπαιχνίδια όπως το [Unreal Tournament](https://en.wikipedia.org/wiki/Unreal_Tournament), το [gears of war](https://en.wikipedia.org/wiki/Gears_of_War) και το βιντεοπαιχνίδι που κατάφερε να κάνει τον Tim Sweeney δισεκατομμυριούχο, το γνωστό [fortnite](https://el.wikipedia.org/wiki/Fortnite).
 
-[^1]: fig:Unreal-Engine-3
+[^1]: fig:Unreal-Engine
 
 
 [^2]: fig:Atari-2600
